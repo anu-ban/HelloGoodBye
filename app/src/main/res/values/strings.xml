@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloGoodBye</string>
+    <string name="click_me">Click Me</string>
+    <string name="todo">TODO</string>
+    <string name="ok">TODO</string>
+    <string name="hello">Hello</string>
+</resources>
